@@ -1,0 +1,16 @@
+{
+    "defaultLanguage": "EN_GB",
+    "height": 1920,
+    "width": 358,
+    "defaultFrameRate": 30,
+    "qualityLevel": 5,
+    "fullscreen": true,
+    "ledIdle": "#52FF70FF",
+    "ledRead": "#5999FE",
+    "cameraLedTakingPhoto": "#FF1515FF",
+    "cameraLedPhotoTaken": "#00670EFF",
+    "avatarServerUrl": "localhost:8085",
+    "LogMaxFileSize": 20.0,
+    "logMaxFolderSize": 1000.0,
+    "avatarType": 0
+}

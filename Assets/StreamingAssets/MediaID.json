@@ -1,0 +1,12 @@
+{
+    "mediaIdList": [
+        {
+            "avatarEvent": "Approach",
+            "path": "approach",
+            "active": true,
+            "subtitle": true,
+            "audio": true,
+            "displayTime": 0
+        }
+    ]
+}

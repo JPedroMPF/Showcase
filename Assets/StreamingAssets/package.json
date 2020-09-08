@@ -1,0 +1,13 @@
+{
+  "name": "vb-avatar",
+  "version": "1.0.0",
+  "description": "Avatar App",
+  "author": {
+    "name": "Vision-Box",
+    "url": "http://vision-box.com/"
+  },
+  "repository": {
+    "url": "",
+    "type": "git"
+  }
+}
